@@ -1,0 +1,6 @@
+1. провести анализ на выбросы
+(пример в https://colab.research.google.com/drive/1ayjfch8ihzhZDQpCVJgc1SdlPLvKDG82?authuser=1#scrollTo=49718d2f)
+
+2. Провести чистку данных
+
+3. отредактировать EDA
